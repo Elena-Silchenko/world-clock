@@ -1,0 +1,19 @@
+.map {
+  height: 75vh;
+  position: relative;
+}
+
+.map-image {
+  height: 100%;
+}
+
+.time-zone {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background: #ffffff80;
+}
+
+.time-zone:hover {
+  background: #ffffff00;
+}

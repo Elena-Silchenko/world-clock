@@ -1,0 +1,19 @@
+.timer-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.timer {
+  display: flex;
+}
+
+.timer-city {
+  flex-grow: 1;
+  text-align: right;
+  margin-right: .8em;
+}
+
+.timer-time {
+  text-align: right;
+  width: 4em;
+}
